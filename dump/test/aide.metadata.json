@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"test.aide"},{"v":2,"unique":true,"key":{"allstar_id":1},"name":"allstar_id_1","ns":"test.aide","background":true}]}
